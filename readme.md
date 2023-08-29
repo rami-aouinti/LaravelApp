@@ -1,14 +1,7 @@
 # PHP Laravel environment
 Docker environment required to run Laravel (based on official php and mysql docker hub repositories).
 
-[![Actions Status](https://github.com/systemsdk/docker-apache-php-laravel/workflows/Laravel%20App/badge.svg)](https://github.com/systemsdk/docker-apache-php-laravel/actions)
-[![CircleCI](https://circleci.com/gh/systemsdk/docker-apache-php-laravel.svg?style=svg)](https://circleci.com/gh/systemsdk/docker-apache-php-laravel)
-[![Coverage Status](https://coveralls.io/repos/github/systemsdk/docker-apache-php-laravel/badge.svg)](https://coveralls.io/github/systemsdk/docker-apache-php-laravel)
-[![Latest Stable Version](https://poser.pugx.org/systemsdk/docker-apache-php-laravel/v)](https://packagist.org/packages/systemsdk/docker-apache-php-laravel)
-[![Total Downloads](https://poser.pugx.org/systemsdk/docker-apache-php-laravel/downloads)](https://packagist.org/packages/systemsdk/docker-apache-php-laravel)
-[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
-[Source code](https://github.com/systemsdk/docker-apache-php-laravel.git)
+[Source code](https://github.com/rami-aouinti/LaravelApp.git)
 
 ## Requirements
 * Docker version 18.06 or later
@@ -276,6 +269,3 @@ Notes: Please see more commands in Makefile
 6. When PR is approved, it will be squashed & merged, into `develop` and later merged into `release/{No}` for deployment.
 
 Note: You can find git flow detail example [here](https://danielkummer.github.io/git-flow-cheatsheet).
-
-## License
-[The MIT License (MIT)](LICENSE)
